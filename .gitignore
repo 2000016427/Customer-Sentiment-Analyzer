@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+IMDB_Dataset.csv
+*.csv
+model.joblib
